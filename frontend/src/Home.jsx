@@ -42,7 +42,7 @@ const Home = () => {
                 currency: "INR",
                 name: "Abhishek Sharma",
                 description: "RazorPay Integration",
-                image: "https://avatars.githubusercontent.com/u/25058652?v=4",
+                image: "https://avatars.githubusercontent.com/u/121100297?v=4",
                 order_id: order.id,
                 callback_url: "http://localhost:7000/api/paymentverification",
                 prefill: {
